@@ -8,7 +8,6 @@ Debug/
 test/
 casesBak/
 cases/
-bin/
 
 build/
 build2/
@@ -55,7 +54,6 @@ build
 *.slo
 *.lo
 *.o
-*.obj
 
 # Precompiled Headers
 *.gch
