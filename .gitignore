@@ -1,0 +1,95 @@
+# Release file
+Release/
+
+# Debug file
+Debug/
+
+# test file
+test/
+casesBak/
+cases/
+bin/
+
+build/
+build2/
+install/
+.vs/
+.vscode/
+
+*.rar
+
+# CMake files
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# lib & bin file
+lib
+bin
+build
+
+# Project files
+*.user*
+*.sln
+*.sdf
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.opensdf
+*.suo
+*.plg
+*.ncb
+*.opt
+.idea/
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Demo files
+/demo/bomb_cf/*
+!/demo/bomb_cf/bomb_cf.ba3
+!/demo/bomb_cf/bomb_cf.pls
+
+
+# Mac files
+.DS_Store
+
+# .o.vtk files
+*.o.vtk
+*.bak
